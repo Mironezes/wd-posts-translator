@@ -1,0 +1,16 @@
+{
+  "name": "wd-posts-translator",
+  "version": "0.1.0",
+  "description": "Based on Google Translator library for automatic post content translation on different languages.",
+  "main": "index.php",
+  "scripts": {
+  },
+  "keywords": [
+    "wordpress",
+    "google translate",
+    "wizardsdev"
+  ],
+  "author": "Alexey Suprun",
+  "license": "GPL v3",
+  "devDependencies": {}
+}
